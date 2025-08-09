@@ -1,0 +1,47 @@
+.left{
+    width: 746px;
+}
+.right{
+    width: 526px;
+}
+.left img{
+width: 369px;
+}
+.shoes-size{
+    padding: 12px 24px;
+    font-weight: 500;
+    background-color: #ffffff;
+    border: 1px solid #DEE2E6;
+    border-radius: 4px;
+    font-size: 16px;
+    letter-spacing: 0.05rem;
+    line-height: 1.5;
+}
+.shoes-size-active{
+    border: 1px solid #212529;
+}
+.shoes-size-disabled{
+    opacity: 0.4;
+}
+.add-to-collection{
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.05rem;
+border: 1px solid #212529;
+border-radius: 4px;
+background-color: #ffffff;
+padding: 12px 24px;
+width: 259px;
+}
+.reservation{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.05rem;
+    border-radius: 4px;
+    padding: 12px 24px;
+    background-color: #212529;
+    color: #ffffff;
+    width: 259px;
+}

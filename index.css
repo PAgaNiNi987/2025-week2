@@ -1,0 +1,18 @@
+.page{
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+}
+.page-active{
+  background-color: #C0FA73;
+}
+.left {
+  width: 196px;
+}
+.right {
+  width: 1076px;
+}
+.card {
+  max-width: 342px;
+}
